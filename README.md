@@ -72,8 +72,8 @@ git clone https://github.com/DigogSXD/TaskMaster.git
 
 ## Equipe do Projeto
 
-| matrícula | nome | foto |
-| -------- | -------- | -------- |
-| 22250783 | Diogo Borges |<img src="https://github.com/digogsxd.png" height="75" width="75"> |
-| 22251863 | Jonas Honorato | <img src="https://github.com/JonasMelo21.png" height="75" width="75"> |
+| nome | foto |
+|-------- | -------- |
+| Diogo Borges |<img src="https://github.com/digogsxd.png" height="75" width="75"> |
+| Jonas Honorato | <img src="https://github.com/JonasMelo21.png" height="75" width="75"> |
 
