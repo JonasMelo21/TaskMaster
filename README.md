@@ -23,8 +23,7 @@ Este projeto oferece as seguintes funcionalidades:
   - Adicionar Tarefa
   - Editar Tarefa
   - Excluir Tarefa
-  - Analisar Performance nas Tarefas
-
+    
 <!-- Título centralizado -->
 <div align="center">
   <h2>🤞🏻 Como executar o projeto </h2>
